@@ -1,14 +1,14 @@
 # Hotel Booking Full Stack App -> MERN STACK
 
-- Technology Stack -> Javascript, React Library, React Context API, Axios Library, Node.JS, Express.JS, MongoDB, MongoDb Cloud.
+- Technology Stack -> Javascript, React Library, React Context API, Axios Library, Node.JS, Express.JS, MongoDB, MongoDb Cloud, Cookie-Parser, JWT.
 
 # Functionalities
-
+- Implemented "SALT" from "bycrypt.js" to create a password hash and store it to the databse.
+- Implemented "JWT" JSON Web Token in the middleware to Authenticate users.
+- Implemented "JWT" JSON Web Token in the middleware to Authorize, And if the user permit to do the data manipulation then user's can delete or modify data's.
+- Used Cookie-Parser to save the JWT in the cookies section. Cause everytime user loads the website, The cookie will be sent to the request. This helps us to keep track of user's action's.
+- Implemented Search functionality to filter out the hotels according to users preference.
 - Used React Context API to avoid Prop Drilling.
-- Used Unsplash API to get Images.
-- Implemented Search functionality to filter out the images according to users.
-- onPress Image to get original Image.
-- Created release version app.
 
 # How to run this project on your local system ?
 - Clone this Repo.
