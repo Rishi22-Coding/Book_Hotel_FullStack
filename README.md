@@ -1,4 +1,4 @@
-# A PHOTO GALLERY WITH SEARCH
+# Hotel Booking Full Stack App -> MERN STACK
 
 - Technology Stack -> Javascript, React Library, React Context API, Axios Library, Node.JS, Express.JS, MongoDB, MongoDb Cloud.
 
